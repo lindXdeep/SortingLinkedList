@@ -2,17 +2,16 @@
 
    Name         : Sorting the Doubly linked list with different types of data and working with it
    Author       : MrLinder.
-   Version      : v1.0
+   Version      : v1.0.
    Date         : 16.04.2015/1:41 - 
    License      : GNU.
    Description  : Двусвязный списк
-			Классы
+   Классы
 			Наследование классов
 			Алгоритмы для работы со списком
 			Алгоритмы Сортировки двусвязного списка
 			Перегрузка операторов ввода-вывода
 			Форматированный ввод-вывод данных
-					
 			Пространтва имен
 			Шаблоные (обобщенные)классы/функции
 			Модели компиляции
@@ -65,7 +64,7 @@ cout << Object->PopBack() << endl;
 cout << Object->PopBegin() << endl;
 
 //Показать все (2 способа)
-Object -> ShowAll();	
+Object -> ShowAll();	//
 cout << *Object << endl;
 
 //Возвращает порядковый номер заданного элемента;
