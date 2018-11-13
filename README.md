@@ -4,7 +4,7 @@
    Author       : MrLinder.
    Version      : v1.0
    Date         : 16.04.2015/1:41 - 
-   License      : Hello shitty World!
+   License      : GNU.
    Description  : Двусвязный списк
 			Классы
 			Наследование классов
