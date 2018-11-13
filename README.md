@@ -1,6 +1,5 @@
 # Sorting the Doubly linked list with different types of data and working with it
 
-   Name         : Sorting the Doubly linked list with different types of data and working with it
    Author       : MrLinder.
    Version      : v1.0.
    Date         : 16.04.2015/1:41 - 
@@ -16,7 +15,6 @@
 			Шаблоные (обобщенные)классы/функции
 			Модели компиляции
 			Конструкторы копий
-									
 																	
 Создаем Указатель классового типа			
 Внутри класса создается список размерностью указанной пользователем
