@@ -1,8 +1,11 @@
 # Sorting the Doubly linked list with different types of data and working with it
 
 Author       : MrLinder.
+
 Version      : v1.0.
+
 Date         : 16.04.2015/1:41 - 
+
 License      : GNU.
  
 Description  : Двусвязный списк
@@ -23,7 +26,6 @@ Description  : Двусвязный списк
 Поддерживаемые типы данных int, double, char.
 
 Инициализация Автоматическиая, Пользовательская, из массива, из файла
-
 
 - - - - - - - - - - - - Функции для работы со списком- - - - - - - - - - - - 
 
