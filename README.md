@@ -19,11 +19,13 @@ Description  :
 - - - - - - - - - - - - Функции для работы со списком- - - - - - - - - - - - 
 
 //Создание списка
-li
+
 List<int> *Object = new List<int>();
 
 //загрузка значений
+
 Object->PushBegin(1);
+
 Object->PushBack(2);
 
 //Удаление элемента 
