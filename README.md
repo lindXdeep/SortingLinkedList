@@ -5,7 +5,7 @@
    Version      : v1.0
    Date         : 16.04.2015/1:41 - 
    License      : Hello shitty World!
-   Description  : Двусвязный списк 
+   Description  : Двусвязный списк
 									Классы
 									Наследование классов
 									Алгоритмы для работы со списком
